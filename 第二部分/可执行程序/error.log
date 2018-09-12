@@ -1,0 +1,13 @@
+java.util.NoSuchElementException
+	at java.util.Scanner.throwFor(Unknown Source)
+	at java.util.Scanner.next(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at Network.Network.menu(Network.java:23)
+	at Network.Network.main(Network.java:49)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:62)
+	at com.exe4j.runtime.WinLauncher.main(WinLauncher.java:101)
